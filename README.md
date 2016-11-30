@@ -1,8 +1,16 @@
 # Sakura
-Sakura.id.lv domain
+Sakura.id.lv domain.
 ............................
-Ronalds Fišteins EDP1-1 RVT
+Name: Ronalds Fišteins; 
+Group: EDP1-1;
+Org: RVT.
 ............................
 November attestation work.
 ............................
-Last Update at 30.11.2016
+Last Update at 30.11.2016.
+............................
+Used techologies:
+1.Jquery;
+2.Bootstrap (Adaptive design);
+3.Lightbox.
+............................
